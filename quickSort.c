@@ -29,12 +29,7 @@ int main()
     for(i=0;i<len;i++){
         printf(" %d",dataSort[i]);
     }
-    return 0;
-    
-    
-    
-    
-    
+   
     return 0;
 }
 
